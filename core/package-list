@@ -1,0 +1,31 @@
+$dokka.format:html
+$dokka.linkExtension:html
+$dokka.location:tech.ketc.animkt.core.anim$listener(android.view.animation.Animation, kotlin.Function1((android.view.animation.Animation, kotlin.Unit)), kotlin.Function1((android.view.animation.Animation, kotlin.Unit)), kotlin.Function1((android.view.animation.Animation, kotlin.Unit)))tech.ketc.animkt.core.anim/android.view.animation.-animation/listener.html
+$dokka.location:tech.ketc.animkt.core.animator$animate(android.view.View, kotlin.Function1((android.view.ViewPropertyAnimator, kotlin.Unit)))tech.ketc.animkt.core.animator/android.view.-view/animate.html
+$dokka.location:tech.ketc.animkt.core.animator$fromAlpha#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/from-alpha.html
+$dokka.location:tech.ketc.animkt.core.animator$fromDegrees#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/from-degrees.html
+$dokka.location:tech.ketc.animkt.core.animator$fromDegreesX#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/from-degrees-x.html
+$dokka.location:tech.ketc.animkt.core.animator$fromDegreesY#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/from-degrees-y.html
+$dokka.location:tech.ketc.animkt.core.animator$fromXDelta#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/from-x-delta.html
+$dokka.location:tech.ketc.animkt.core.animator$fromXScale#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/from-x-scale.html
+$dokka.location:tech.ketc.animkt.core.animator$fromYDelta#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/from-y-delta.html
+$dokka.location:tech.ketc.animkt.core.animator$fromYScale#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/from-y-scale.html
+$dokka.location:tech.ketc.animkt.core.animator$listener(android.animation.Animator, kotlin.Function1((android.animation.Animator, kotlin.Unit)), kotlin.Function1((android.animation.Animator, kotlin.Unit)), kotlin.Function1((android.animation.Animator, kotlin.Unit)), kotlin.Function1((android.animation.Animator, kotlin.Unit)))tech.ketc.animkt.core.animator/android.animation.-animator/listener.html
+$dokka.location:tech.ketc.animkt.core.animator$listener(android.view.ViewPropertyAnimator, kotlin.Function1((android.animation.Animator, kotlin.Unit)), kotlin.Function1((android.animation.Animator, kotlin.Unit)), kotlin.Function1((android.animation.Animator, kotlin.Unit)), kotlin.Function1((android.animation.Animator, kotlin.Unit)))tech.ketc.animkt.core.animator/android.view.-view-property-animator/listener.html
+$dokka.location:tech.ketc.animkt.core.animator$toAlpha#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/to-alpha.html
+$dokka.location:tech.ketc.animkt.core.animator$toDegrees#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/to-degrees.html
+$dokka.location:tech.ketc.animkt.core.animator$toDegreesX#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/to-degrees-x.html
+$dokka.location:tech.ketc.animkt.core.animator$toDegreesY#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/to-degrees-y.html
+$dokka.location:tech.ketc.animkt.core.animator$toXDelta#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/to-x-delta.html
+$dokka.location:tech.ketc.animkt.core.animator$toXScale#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/to-x-scale.html
+$dokka.location:tech.ketc.animkt.core.animator$toYDelta#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/to-y-delta.html
+$dokka.location:tech.ketc.animkt.core.animator$toYScale#android.view.ViewPropertyAnimatortech.ketc.animkt.core.animator/android.view.-view-property-animator/to-y-scale.html
+$dokka.location:tech.ketc.animkt.core.util.context$adjustDuration(android.content.Context, kotlin.Long)tech.ketc.animkt.core.util.context/android.content.-context/adjust-duration.html
+$dokka.location:tech.ketc.animkt.core.util.context$dp(android.content.Context, kotlin.Float)tech.ketc.animkt.core.util.context/android.content.-context/dp.html
+$dokka.location:tech.ketc.animkt.core.util.context$isTablet#android.content.Contexttech.ketc.animkt.core.util.context/android.content.-context/is-tablet.html
+$dokka.location:tech.ketc.animkt.core.util.context$isWearable#android.content.Contexttech.ketc.animkt.core.util.context/android.content.-context/is-wearable.html
+tech.ketc.animkt
+tech.ketc.animkt.core.anim
+tech.ketc.animkt.core.animator
+tech.ketc.animkt.core.util
+tech.ketc.animkt.core.util.context
